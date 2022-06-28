@@ -1,6 +1,6 @@
 Project Description:
 
-The project shows the sales insights of the ATLIQ HARDWARE in INDIA which sells millions of products each year. To track down the live sales and revenue/cost, we generated a POWER BI based report along with the dashboard to check what sales have patterns throughout the years and months.
+The project shows the sales insights of the ATLIQ HARDWARE in INDIA which sells millions of products each year. To track down the live sales and revenue/cost, I generated a POWER BI based report along with the dashboard to check what sales have patterns throughout the years and months.
 
 Procedure:
 1. Use of AIMS grid to define purpose and planning.
